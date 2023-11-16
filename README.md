@@ -4,7 +4,7 @@ https://tbrain.trendmicro.com.tw/Competitions/Details/30
 
 ## Dataset
 ### Features
-<img src="https://github.com/Jellyfish0427/Housing-Market-Predictions/assets/128220508/6a5a1199-2f5d-4539-be78-26216a526373" alt="image" width="500">
+<img src="https://github.com/Jellyfish0427/Housing-Market-Predictions/blob/main/image/features.png" alt="image" width="500">
 
 ### External data
 - 大學基本資料.csv
