@@ -84,4 +84,8 @@ XGBoost
 Private score: 8.6447709  
 Rank: #109 (972 teams in total)
 
+This comprehensive approach to data processing, feature engineering, and modeling contributed to achieving a competitive ranking in the competition.
+
+
+
 
