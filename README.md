@@ -1,8 +1,10 @@
 # Housing-Market-Predictions
-## Competition: 
-https://tbrain.trendmicro.com.tw/Competitions/Details/30  
+## Competition 
+The Housing Market Predictions competition hosted on [T-Brain](https://tbrain.trendmicro.com.tw/Competitions/Details/30) by Trend Micro aims to forecast housing market trends using a dataset encompassing diverse features. 
+Participants are tasked with leveraging this dataset to predict housing prices accurately.
 
-## Dataset
+
+## Dataset 
 ### Features
 <img src="https://github.com/Jellyfish0427/Housing-Market-Predictions/blob/main/image/features.png" alt="image" width="500">
 
@@ -26,3 +28,8 @@ MAPE = \frac{1}{N} \sum_{i=1}^{N} \left| \frac{y_i - \hat{y}_i }{y_i} \right| \t
 $$  
 
 where N is the total number of data, yi is the true price, and ^yi represents the predicted price.
+
+## Environment
+Ensure the successful execution of models by setting up the necessary Python environment.  
+The 'requirements.txt' file encompasses a precise list of Python libraries along with their specific versions required for this project.  
+```pip install -r requirements.txt```
